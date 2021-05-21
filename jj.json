@@ -1,0 +1,21 @@
+{
+  "name": "BA: ERC20 SEC Action",
+  "timestamp": "2021-02-25T19:56:35.974Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "keywords": ["blockchain", "sec", "action"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "decimals": 18
+    }
+  ]
+}
